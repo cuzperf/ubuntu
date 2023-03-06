@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/usr/bin/bash
 sudo apt --fix-broken install -y
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y zsh
